@@ -1,4 +1,4 @@
-// https://github.com/appsmakerbd/assignmentjs.git
+// https://github.com/appsmakerbd/assignmentjs
 
 //############## Number One #############
 //Kilometer To Meter Declaration
